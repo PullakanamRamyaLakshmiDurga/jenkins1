@@ -1,0 +1,5 @@
+ls
+touch f1 f2
+ls -l
+echo "Hello world"
+uname -a
